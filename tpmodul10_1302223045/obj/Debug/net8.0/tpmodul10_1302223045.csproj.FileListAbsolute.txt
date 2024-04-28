@@ -30,3 +30,4 @@ C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\TP KPL\tpmodul10_1302223045\tpmodu
 C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\TP KPL\tpmodul10_1302223045\tpmodul10_1302223045\obj\Debug\net8.0\tpmodul10_1302223045.pdb
 C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\TP KPL\tpmodul10_1302223045\tpmodul10_1302223045\obj\Debug\net8.0\tpmodul10_1302223045.genruntimeconfig.cache
 C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\TP KPL\tpmodul10_1302223045\tpmodul10_1302223045\obj\Debug\net8.0\ref\tpmodul10_1302223045.dll
+C:\Users\harit\OneDrive\Documents\TEL-U SEM 4\TP KPL\tpmodul10_1302223045\tpmodul10_1302223045\obj\Debug\net8.0\tpmodul10_1302223045.sourcelink.json
