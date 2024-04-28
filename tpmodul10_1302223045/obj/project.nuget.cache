@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7WXXsOeiQGND5kBXxVORr55srQTX7x30bOQZP9UTVKLu8POrda4LbEScRTtqlcA8swgHjPrY5CLJQec8+3t2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul10_1302223045\\tpmodul10_1302223045\\tpmodul10_1302223045.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\harit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\harit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\harit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\harit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\harit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
